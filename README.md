@@ -2,6 +2,7 @@
 This is a personal portfolio website built with PHP and MySQL. 
 It is designed to showcase my background, skills, and projects that I have completed.
 
+
 ## Technologies
 - PHP
 - MySQL
@@ -11,12 +12,14 @@ It is designed to showcase my background, skills, and projects that I have compl
 - Git
 - GitHub
 
+
 ## Features
 - Personal introduction
 - Skills
 - Projects
 - Contact form
 - Store contact messages in MySQL
+
 
 ## Database
 Database:
@@ -34,6 +37,7 @@ Stores portfolio projects.
 ### messages
 Stores messages submitted through the Contact form.
 
+
 ## File Description
 | File | Description |
 |---|---|
@@ -44,12 +48,14 @@ Stores messages submitted through the Contact form.
 | `style.css` | Website styling |
 | `.gitignore` | Files ignored by Git |
 
+
 ## How to run
 ### 1. Install XAMPP
 Install XAMPP and start:
 
 - Apache
 - MySQL
+
 
 ### 2. Copy project
 Copy the project into:
@@ -89,11 +95,13 @@ Open:
 http://localhost/portfolio_php/portfolio
 ```
 
+
 ## Screenshots
 Add screenshots of the website here.
 ```markdown
 ![portfolio](assets/images/avatar.jpg)
 ```
+
 
 ## Contact
 **Name:** Dũng
