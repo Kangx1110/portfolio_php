@@ -342,7 +342,7 @@ if ($projectResult) {
 <footer>
     <div class="container">
 
-        © <?= date('Y') ?>
+        <?= date('Y') ?>
 
         Dũng.
 
